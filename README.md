@@ -14,10 +14,6 @@ By this program we can return the colors as
 
 
 ![App Screenshot](https://github.com/arjunan-k/Color_Palette/blob/master/images/ryan.jpg?raw=true)
+
 ![App Screenshot](https://github.com/arjunan-k/Color_Palette/blob/master/images/final%20(4).png?raw=true)
-
-![App Screeshot](https://github.com/arjunan-k/Color_Palette/blob/master/images/madmax.jpeg?raw=true)
-![App Screeshot](https://github.com/arjunan-k/Color_Palette/blob/master/images/final%20(1).png?raw=true)
-
-![App Screeshot](https://github.com/arjunan-k/Color_Palette/blob/master/images/bladerunner.jpg?raw=true)
-![App Screeshot](https://github.com/arjunan-k/Color_Palette/blob/master/images/final%20(2).png?raw=true)
+More examples in the images folder. You can also try by providing the URL of your favourite image in the color.py file.
